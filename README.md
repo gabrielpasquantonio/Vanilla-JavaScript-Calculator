@@ -1,5 +1,5 @@
-# <div align="center">📋 Vanilla JavaScript Calculator</div>
-<a href="https://todoapp-5aa6c.web.app"/>
+# <div align="center">� Vanilla JavaScript Calculator</div>
+
 <img src="./main.png" />
                              </a>
 <p align="center">
